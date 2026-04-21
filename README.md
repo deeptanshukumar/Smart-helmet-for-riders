@@ -65,7 +65,6 @@ _Note: For advanced features like accident notification, additional modules or c
 **Project Output:**  
 ![Output Image](https://github.com/deeptanshukumar/Smart-helmet-for-riders/blob/main/output-image.png)
 
-*You can add more images/gifs or a video link here to further showcase the helmet in action!*
 
 ## License
 
